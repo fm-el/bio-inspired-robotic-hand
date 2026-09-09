@@ -30,7 +30,7 @@ leading to the following architecture choices:
 - **Force + position sensor fusion** (FSR + SV01A) for closed-loop grasp control
 - **PETG** as primary structural material (3D printed parts)
 
-Full bibliographic report: [`docs/rapport-bibliographique-2026-2027.pdf`](docs/rapport-bibliographique-2026-2027.pdf)
+Full bibliographic report: [`rapport-bibliographique-2026-2027.pdf`](rapport-bibliographique-2026-2027.pdf)
 
 ## Hardware (planned)
 
